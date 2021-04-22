@@ -1,0 +1,10 @@
+C:\Users\Marius\source\repos\MocanuFilipVictor\MocanuFilipVictor\obj\Debug\MocanuFilipVictor.csprojAssemblyReference.cache
+C:\Users\Marius\source\repos\MocanuFilipVictor\MocanuFilipVictor\obj\Debug\MocanuFilipVictor.Form1.resources
+C:\Users\Marius\source\repos\MocanuFilipVictor\MocanuFilipVictor\obj\Debug\MocanuFilipVictor.Properties.Resources.resources
+C:\Users\Marius\source\repos\MocanuFilipVictor\MocanuFilipVictor\obj\Debug\MocanuFilipVictor.csproj.GenerateResource.cache
+C:\Users\Marius\source\repos\MocanuFilipVictor\MocanuFilipVictor\obj\Debug\MocanuFilipVictor.csproj.CoreCompileInputs.cache
+C:\Users\Marius\source\repos\MocanuFilipVictor\MocanuFilipVictor\bin\Debug\MocanuFilipVictor.exe.config
+C:\Users\Marius\source\repos\MocanuFilipVictor\MocanuFilipVictor\bin\Debug\MocanuFilipVictor.exe
+C:\Users\Marius\source\repos\MocanuFilipVictor\MocanuFilipVictor\bin\Debug\MocanuFilipVictor.pdb
+C:\Users\Marius\source\repos\MocanuFilipVictor\MocanuFilipVictor\obj\Debug\MocanuFilipVictor.exe
+C:\Users\Marius\source\repos\MocanuFilipVictor\MocanuFilipVictor\obj\Debug\MocanuFilipVictor.pdb
